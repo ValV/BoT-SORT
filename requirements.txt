@@ -11,14 +11,10 @@ ninja
 tabulate
 tensorboard
 lap
-motmetrics
-filterpy
 h5py
 matplotlib
 scipy
 prettytable
-easydict
-tensorboard
 pyyaml
 yacs
 termcolor
