@@ -10,8 +10,6 @@
 > 
 > *[https://arxiv.org/abs/2206.14651](https://arxiv.org/abs/2206.14651)*
 
-<p align="center"><img src="assets/Results_Bubbles.png"/></p>
-
 ## Highlights 🚀
 
 - YOLOX & YOLOv7 support
